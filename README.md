@@ -1,33 +1,27 @@
-# 🤖 Python AI Chatbot
+## AI Chatbot Using API
 
 A simple AI chatbot built with Python and Groq API.
 
----
 
-<details>
-<summary>✨ Features</summary>
+
+
+## ✨ Features
 
 - 💬 Real AI responses 
 - 🧠 Remembers conversation history
 - ⚡ Superfast responses
 
-</details>
 
----
 
-<details>
-<summary>🔑 How To Get API_KEY</summary>
+## 🔑 How To Get API_KEY
 
 - GO https://console.groq.com
 - Create Account
 - Generate Key From API Section Completely free!
 
-</details>
 
----
 
-<details>
-<summary>📦 Installation</summary>
+## 📦 Installation
 
 1. Download the repo Zip:
    https://github.com/dev-salik/my-chatbot.git
@@ -35,22 +29,17 @@ A simple AI chatbot built with Python and Groq API.
 2. Install Dependencies 
    pip install groq
 
-3. API Key
-   ENTER YOUR API KEY=your_generated_api_key
+3. Enter Your Generated API_Key
 
 4. Run
-   python main.py
+   python "main.py" file
 
-</details>
 
----
-
-<details>
-<summary>🛠️ Tech Used</summary>
+## Tech Used
 
 - Python 3.xxx
 - Groq API
 - Llama 3.3 70B
 
 
-</details>
+
